@@ -8,4 +8,11 @@ quotes = {
 stooge = "Larry"
 print(stooge, "says:", quotes[stooge])
 
-print(quotes[Moe])
+
+language = 7
+print("Language %s: I am Python. What's for supper?")
+print(language, "I am Python. What's for supper?")
+
+stooge = "Moe"
+print(quotes[stooge])
+
