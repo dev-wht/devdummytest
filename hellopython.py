@@ -7,3 +7,5 @@ quotes = {
 }
 stooge = "Larry"
 print(stooge, "says:", quotes[stooge])
+
+print(quotes[Moe])
